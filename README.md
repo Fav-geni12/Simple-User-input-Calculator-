@@ -10,7 +10,7 @@ A beginner-friendly command-line calculator built with Python.
 - User-friendly prompts throughout
 
 ## How to Use
-1. Run the file: `python Basic\ calculator.py`
+1. Run the file: `python PyCalc_CLI.py`
 2. Enter your name when prompted
 3. Enter two numbers and choose an operation
 4. Type `Done` when you're finished
